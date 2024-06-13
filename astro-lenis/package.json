@@ -1,11 +1,11 @@
 {
 	"name": "package-name",
-	"version": "0.0.0",
-	"description": "TODO:",
+	"version": "1.0.0",
+	"description": "A simple drop in lenis integration for Astro. Get smooth or die trying.",
 	"author": {
-		"email": "TODO:",
-		"name": "TODO:",
-		"url": "TODO:"
+		"email": "matthew@majicwebdesign.com",
+		"name": "Matthew Justice",
+		"url": "https://github.com/JusticeMatthew"
 	},
 	"license": "MIT",
 	"keywords": [
@@ -13,9 +13,8 @@
 		"astro-component",
 		"withastro",
 		"astro",
-		"TODO:"
+		"lenis"
 	],
-	"homepage": "TODO:",
 	"publishConfig": {
 		"access": "public"
 	},
@@ -36,7 +35,7 @@
 	"type": "module",
 	"peerDependencies": {
 		"astro": "^4.10.1",
-    "lenis": "^1.1.3"
+		"lenis": "^1.1.3"
 	},
 	"dependencies": {
 		"astro-integration-kit": "^0.13.3"

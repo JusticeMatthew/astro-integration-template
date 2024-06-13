@@ -1,5 +1,5 @@
 {
-	"name": "package-name",
+	"name": "astro-lenis",
 	"version": "1.0.0",
 	"description": "A simple drop in lenis integration for Astro. Get smooth or die trying.",
 	"author": {
